@@ -1,2 +1,2 @@
-# VASEY-ai
+# VASEY-AI
 VASEY/AI Multimodal Dev
